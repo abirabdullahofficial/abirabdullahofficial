@@ -11,3 +11,14 @@ A passionate Web Developer & CSE student from Bangladesh 🌍
 📫 Reach me at: [abirabdullah3491@gmail.com](mailto:abirabdullah3491@gmail.com)  
 🌐 Portfolio: [https://abirabdullahportfolio.web.app](https://abirabdullahportfolio.web.app)
 
+## 📘 Latest Blog Post
+📌 [How I Started My Coding Journey as a CSE 1st Year Student](https://medium.com/@abir.abdullah/how-i-started-my-coding-journey-as-a-cse-1st-year-student-def602d8eae9)
+
+I write on Medium to document what I learn, share tips with other students, and grow my coding skills in public.
+
+---
+
+## 🌐 Find Me Online
+- 🔗 [Medium Blog](https://medium.com/@abir.abdullah)
+- 💼 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/md-abir-hossen-abdullah-a3a051354/))
+- 🧑‍💻 [GitHub](https://github.com/abirabdullahofficial)
