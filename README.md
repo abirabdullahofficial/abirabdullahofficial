@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#4F46E5;">Abir Abdullah</span></h1>
-<p align="center">🎓 CSE 1st Year Student | 💻 Web Dev Enthusiast | ✍️ Blogger</p>
+<p align="center">🎓 CSE 1st Year Student | 💻 Web Dev Enthusiast | ✍️ Blogger  | Competitive Programmer | Teacher</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F97316&center=true&vCenter=true&width=440&lines=Full+Stack+Learner;Firebase+%26+Apps+Script+Fan;Loves+Building+Cool+Stuff;Learning+in+Public+Every+Day!" alt="Typing SVG" />
