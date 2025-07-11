@@ -24,7 +24,7 @@ I write on Medium to document what I learn, share tips with other students, and 
 
 ## 🌐 Find Me Online
 - 🔗 [Medium Blog](https://medium.com/@abir.abdullah)
-- 💼 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/md-abir-hossen-abdullah-a3a051354/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/md-abir-hossen-abdullah-a3a051354/)
 - 🧑‍💻  [GitHub](https://github.com/abirabdullahofficial)
 - 📫  [Email](mailto:abirabdullah3491@gmail.com)  
 - 🌐  [portfolio](https://abirabdullahportfolio.web.app)
