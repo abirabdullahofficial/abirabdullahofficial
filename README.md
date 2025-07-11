@@ -8,6 +8,6 @@ A passionate Web Developer & CSE student from Bangladesh 🌍
 ### 📊 GitHub Stats
 ![Abir's GitHub stats](https://github-readme-stats.vercel.app/api?username=abirabdullahofficial&show_icons=true&theme=radical)
 ![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=abirabdullahofficial&theme=dark)
-📫 Reach me at: [abir.dev.bd@gmail.com](mailto:abirabdullah3491@gmail.com)  
-🌐 Portfolio: [abirabdullahs.github.io](https://abirabdullahportfolio.web.app)
+📫 Reach me at: [abirabdullah3491@gmail.com](mailto:abirabdullah3491@gmail.com)  
+🌐 Portfolio: [https://abirabdullahportfolio.web.app](https://abirabdullahportfolio.web.app)
 
