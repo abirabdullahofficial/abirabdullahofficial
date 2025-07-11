@@ -2,6 +2,9 @@
 🎓 CSE 1st Year Student  
 💻 Passionate about web development, Firebase, and learning in public  
 ✍️ Writing blogs on coding, tools, and my learning journey
+
+---
+
 **Languages & Tools:**  
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
