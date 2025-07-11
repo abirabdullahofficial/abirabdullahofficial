@@ -63,6 +63,7 @@
 * 🔹 Publish 10+ technical blogs
 * 🔹 Contribute to open source
 * 🔹 Launch personal coding newsletter
+* 🔹 Computer Architechture
 
 ---
 
