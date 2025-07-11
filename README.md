@@ -9,11 +9,11 @@
 
 ## 🧠 About Me
 
-- 🚀 Currently building **Firebase-based apps & portfolio**
-- 🔍 Learning **JavaScript, Firebase, and Google Apps Script**
-- 🧾 Blogging about **coding tips and student dev life**
-- 🌱 Open to collaborate on cool web projects
-- 📬 Reach me: [abirabdullah3491@gmail.com](mailto:abirabdullah3491@gmail.com)
+* 🚀 Currently building **Firebase-based apps & portfolio**
+* 🔍 Learning **JavaScript, Firebase, and Google Apps Script**
+* 🧾 Blogging about **coding tips and student dev life**
+* 🌱 Open to collaborate on cool web projects
+* 📬 Reach me: [abirabdullah3491@gmail.com](mailto:abirabdullah3491@gmail.com)
 
 ---
 
@@ -40,9 +40,53 @@
 
 ---
 
+## 💼 Highlighted Projects
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abirabdullahofficial&repo=portfolio&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abirabdullahofficial&repo=lecture-manager&theme=radical" />
+</p>
+
+---
+
+## 🌟 Achievements & Certifications
+
+* ✅ Completed Firebase Essentials Bootcamp
+* ✅ Google Apps Script Automation Projects
+* ✅ 100+ Contributions in 2025
+
+---
+
+## 🎯 2025 Goals
+
+* 🔹 Build 5+ real-world web apps
+* 🔹 Publish 10+ technical blogs
+* 🔹 Contribute to open source
+* 🔹 Launch personal coding newsletter
+
+---
+
+## 📚 Currently Learning
+
+* 🌀 TypeScript
+* ⚛️ React JS
+* 🔧 Firebase Auth & Firestore
+* 🎨 TailwindCSS
+
+---
+
+## 🧑‍🤝‍🧑 Open to Collaborate On
+
+* 🛠 Web Apps with Firebase
+* 📚 Apps Script automation tools
+* 🧑‍🎓 Student-friendly dev projects
+
+---
+
 ## ✍️ Latest Blog
 
-📘 **[How I Started My Coding Journey as a CSE 1st Year Student](https://medium.com/@abir.abdullah/how-i-started-my-coding-journey-as-a-cse-1st-year-student-def602d8eae9)**  
+📘 **[How I Started My Coding Journey as a CSE 1st Year Student](https://medium.com/@abir.abdullah/how-i-started-my-coding-journey-as-a-cse-1st-year-student-def602d8eae9)**
+
 > I write on Medium to document what I learn, share tips with other students, and grow my coding skills in public.
 
 ---
@@ -59,4 +103,7 @@
 
 ---
 
-<p align="center"><b>Thank you for visiting!</b> 🙏 Feel free to connect & collaborate!</p>
+<p align="center"><b>Thanks for visiting! Feel free to connect 🚀</b></p>
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=abirabdullahofficial" alt="visitor badge"/>
+</p>
