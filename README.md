@@ -10,6 +10,10 @@
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
+![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white)
+![Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?logo=google&logoColor=white)
+
 ### 📊 GitHub Stats
 ![Abir's GitHub stats](https://github-readme-stats.vercel.app/api?username=abirabdullahofficial&show_icons=true&theme=radical)
 ![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=abirabdullahofficial&theme=dark)
