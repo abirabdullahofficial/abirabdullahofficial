@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#4F46E5;">Abir Abdullah</span></h1>
+<h1 align="center">👋 Hi, I'm <span style="color:#4F46E5;">Abir Hossen Abdullah</span></h1>
 <p align="center">🎓 CSE 1st Year Student | 💻 Web Dev Enthusiast | ✍️ Blogger  | Competitive Programmer | Teacher</p>
 
 <p align="center">
